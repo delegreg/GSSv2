@@ -1,0 +1,14 @@
+E:\Travail\ProjetGSSv2\GSSv2\BibliothequeGSS\bin\Debug\BibliothequeGSS.dll
+E:\Travail\ProjetGSSv2\GSSv2\BibliothequeGSS\bin\Debug\BibliothequeGSS.pdb
+E:\Travail\ProjetGSSv2\GSSv2\BibliothequeGSS\obj\Debug\BibliothequeGSS.csprojResolveAssemblyReference.cache
+E:\Travail\ProjetGSSv2\GSSv2\BibliothequeGSS\obj\Debug\BibliothequeGSS.dll
+E:\Travail\ProjetGSSv2\GSSv2\BibliothequeGSS\obj\Debug\BibliothequeGSS.pdb
+C:\Users\Gregoire\Source\Workspaces\Hector\GSSv2\BibliothequeGSS\obj\Debug\BibliothequeGSS.dll
+C:\Users\Gregoire\Source\Workspaces\Hector\GSSv2\BibliothequeGSS\bin\Debug\BibliothequeGSS.dll.config
+C:\Users\Gregoire\Source\Workspaces\Hector\GSSv2\BibliothequeGSS\bin\Debug\BibliothequeGSS.dll
+C:\Users\Gregoire\Source\Workspaces\Hector\GSSv2\BibliothequeGSS\bin\Debug\BibliothequeGSS.pdb
+C:\Users\Gregoire\Source\Workspaces\Hector\GSSv2\BibliothequeGSS\bin\Debug\EntityFramework.dll
+C:\Users\Gregoire\Source\Workspaces\Hector\GSSv2\BibliothequeGSS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gregoire\Source\Workspaces\Hector\GSSv2\BibliothequeGSS\bin\Debug\EntityFramework.xml
+C:\Users\Gregoire\Source\Workspaces\Hector\GSSv2\BibliothequeGSS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gregoire\Source\Workspaces\Hector\GSSv2\BibliothequeGSS\obj\Debug\BibliothequeGSS.pdb

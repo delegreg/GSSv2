@@ -1,0 +1,10 @@
+E:\Travail\ProjetGSSv2\GSSv2\FenetreNaviguation\bin\Debug\FenetreNaviguation.exe.config
+E:\Travail\ProjetGSSv2\GSSv2\FenetreNaviguation\bin\Debug\FenetreNaviguation.exe
+E:\Travail\ProjetGSSv2\GSSv2\FenetreNaviguation\bin\Debug\FenetreNaviguation.pdb
+E:\Travail\ProjetGSSv2\GSSv2\FenetreNaviguation\bin\Debug\BibliothequeGSS.dll
+E:\Travail\ProjetGSSv2\GSSv2\FenetreNaviguation\bin\Debug\BibliothequeGSS.pdb
+E:\Travail\ProjetGSSv2\GSSv2\FenetreNaviguation\obj\Debug\FenetreNaviguation.csprojResolveAssemblyReference.cache
+E:\Travail\ProjetGSSv2\GSSv2\FenetreNaviguation\obj\Debug\FenetreNaviguation.Properties.Resources.resources
+E:\Travail\ProjetGSSv2\GSSv2\FenetreNaviguation\obj\Debug\FenetreNaviguation.csproj.GenerateResource.Cache
+E:\Travail\ProjetGSSv2\GSSv2\FenetreNaviguation\obj\Debug\FenetreNaviguation.exe
+E:\Travail\ProjetGSSv2\GSSv2\FenetreNaviguation\obj\Debug\FenetreNaviguation.pdb
